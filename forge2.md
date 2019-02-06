@@ -34,15 +34,15 @@ Dioica tastes some of the fungus but it doesn't appear to have any effect on her
 
 While you are waiting for Claude to open the door, Ocardo and Remy explore a path to the south and Badger and Dioica climb a rocky ledge to the north and are attacked by two worm-like monstrosities that are perfectly camouflaged against the rock walls. They unfurl barbed tentacles as Badger and Dioica approach.
 
-![Grick](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/369/205/315/636252779341924439.jpeg)
+![a picture of a worm-like creature with a beak surrounded by four barbed tentacles](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/369/205/315/636252779341924439.jpeg "Grick")
 
 Dioica is struck several times during the assault and Badger is almost consumed. Hearing the commotion, Claude and Remy hurry back but they find it difficult to land a telling blow on the creatures. Eventually Remy manages to skewer one of the gricks with his magic rapier and finally Claude annoyed at all the noise disturbing his concentration blind fires his crossbow over his shoulder and takes out the other grick. He then finally clicks the lock open on Durgeddin's door and uses his curing magic and scrolls to heal the wounded while you decide what to do next.
 
 You decide to search the gricks' lair for treasure. Here you find two more gricks and after another tough battle, you finally manage to defeat them. Claude again heals the party with a Prayer of Healing. Among the grisly remains in the gricks' lair you find a suit of scale mail armour and scattered coins totalling 200 copper pieces, 180 silver pieces, and 60 gold pieces.
 
-Further to the north you find a large, high-ceilinged cavern. To the north, a carved, square-mouthed tunnel shows that someone has been at work in these caves. A gate of rough-hewn timber blocks a small passage to the north-east. Three other passageways wind off toward the south including the one you followed. A heavy animal smell lingers in the air. Suddenly, Ocardo is attacked by camouflaged troglodyte.
+Further to the north you find a large, high-ceilinged cavern. To the north, a carved, square-mouthed tunnel shows that someone has been at work in these caves. A gate of rough-hewn timber blocks a small passage to the north-east. Three other passageways wind off toward the south including the one you followed. A heavy animal smell lingers in the air. Suddenly, Ocardo is attacked by a camouflaged troglodyte.
 
-![Troglodyte](https://media-waterdeep.cursecdn.com/avatars/thumbnails/9/108/252/315/636323540010349971.jpeg)
+![a picture of a lizard-like humanoid](https://media-waterdeep.cursecdn.com/avatars/thumbnails/9/108/252/315/636323540010349971.jpeg "Troglodyte")
 
 Ocardo points at creature and issues a Hellish Rebuke. Badger hacks at the creature with his swords and Claude puts a crossbow bolt through its head. However, a second camouflaged troglodyte on the other side of the cavern opens the gate and releases a brown bear.
 
@@ -56,7 +56,7 @@ As Dioica grabs the sword, the mould ejects a cloud of spores. Fortunately, the 
 
 You decide it is time to venture through Durgeddin's door. Beyond the door, steep stone stairs climb northward. The stairs end at the entrance to an octagonal chamber. The floor is inlaid with cracked, dusty blue tiles, and the walls are dressed with polished marble. Large doors of iron-bound oak exit to the north-west and north-east. Three cast bronze statues, almost ten feet tall, stand by the west, north, and east walls. Each depicts an armed dwarf. The eastern and western ones carry axes and shields. The centre statue is armed with two axes. The ceiling rises in a dome almost thirty feet above the floor. And from somewhere in the distance, you can hear the faint ringing of hammer on anvil.
 
-![Statue](https://media-waterdeep.cursecdn.com/attachments/thumbnails/2/106/300/407/totyp-02-10.png)
+![a picture of a statue of a dwarf holding up two axes](https://media-waterdeep.cursecdn.com/attachments/thumbnails/2/106/300/407/totyp-02-10.png "Statue")
 
 You discover that the doors are both traps. But Claude finds a secret door to the east. Climbing the stairs you trigger a magic mouth spell which calls out in Dwarvish, "Alert! Alert! Intruders approach!" At the top of the stairs is a stone door carved with a glowering dwarf's face. It opens easily.
 
@@ -71,7 +71,7 @@ Suddenly a harsh female voice calls from the shadows of the pillars, "Go back th
 
 Remy attempts to push his luck and try to convince Ghared to let them through the other doors. She plays along at first but then makes a lightening fast grab for his rapier. Fortunately, Remy is quicker. However, two more invisible duergar are in the room and attack Dioica and Ocardo. As they attack they become visible and enlarge themselves to twice their normal size.
 
-![Duergar](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/309/282/315/636252772101183765.jpeg)
+![a picture of a grey dwarf armed with a spiked hammer](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/309/282/315/636252772101183765.jpeg "Duergar")
 
 Claude casts hold person on Ghared however her duergar resilience allows her to shrug off the effect. Remy strikes with his rapier inflicted a serious wound. But Ghared uses her cunning action to evade him and makes her own sneak attack on Claude. One of the duergar guards takes down Ocardo and the other hits Dioica. But you manage to defeat the duergar. And you find a potion of healing on Ghared.
 
@@ -81,6 +81,6 @@ After resting you decide to explore north-west door. Through the door is a room 
 
 Ocardo cannot resist investigating. As he approaches, some of the bones at the foot of the altar stir and form into a pair of towering skeletons clutching great-clubs. The dead orc warrior looks up at you and grins evilly, green fire burning in its hate-filled eyes as it stands. You battle the ogre skeletons and the dead orc. The orc is not harmed by non-magical weapons. Claude suspects that the creature is a wight and that its has life draining abilities.
 
-![Wight](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/56/1000/1000/636252726349692861.jpeg)
+![a picture of ghostly humanoid warrior](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/56/1000/1000/636252726349692861.jpeg "Wight")
 
 The ogre skeletons take a lot of chopping down but with the whole party working together and Badger making reckless attacks you eventually manage to destroy the undead. Among the bones, you find a sack containing 280 gold pieces, and a bone case containing spell scrolls of web and spider climb.
