@@ -1,4 +1,4 @@
-# Forge of Fury
+# Forge of Fury: Part 4
 
 You took rest after dealing with the Duergar to recover your health and abilities. You are joined by Dioica once she has finished communing with nature. You recap your adventures and she tells you that the druids are requesting that she lead an investigation into a new vampire threat discovered in a temple in the depths of the rainforest on the Isle of Chult.
 
