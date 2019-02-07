@@ -1,5 +1,7 @@
 # The Sunless Citadel: Part 1
 
+![a picture of a party of adventurers fighting twig creatures in from of a giant twisted tree](https://media-waterdeep.cursecdn.com/attachments/2/85/totyp-01-book.jpg "The Sunless Citadel")
+
 An exotic band of adventurers take the road from Neverwinter to Oakhurst village: Ocardo Del'riverie, a half-elven sage and seeker of curios and ancient relics; Remy Martin, an elven noble with insatiable desires; Princess Giselle, a naive tiefling princess and Pom Pom, her infernal wolf companion; Badger, an impetuous halfling tribesman and his tribes' dragonborn druid Dioica; and Tubulanderous Bobalinkager the 4th, a gnomish urchin and master of illusions. They are drawn to the village by tales of magical fruit, mysterious disappearing saplings, and a reward for the return of a previous adventuring party.
 
 The road is too long to travel completely within a day, so as the light fades, the party make camp near to the village of Oakhurst. During the night they are set upon by seven plant creatures surrounding their camp-site. The party defeat the creatures easily and Dioica detects that they were formed from a fruiting tree.
