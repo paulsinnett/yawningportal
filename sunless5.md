@@ -8,4 +8,4 @@ Back in Oakhurst they divide up their loot. Bobolink insists on selling all of t
 
 Dioica takes Belak's body to her druid circle. They thank her for bringing the monster to justice, and warn her of a renewed gathering of orcs in the mountains to the north that threaten to upset the natural balance. Claude and Badger have other business to attend to and arrange to catch up with the rest of the party later.
 
-Remy's fence in Waterdeep find him a buyer for the book of dragon lore. He also tells Remy of Baron Althon, a noble from the small mining town of Blasingdell and his interest in the legend of Durgeddin. Remy spends some time and money acquiring a pair of shiny trousers.
+Remy's fence in Waterdeep finds him a buyer for the book of dragon lore. He also tells Remy of Baron Althon, a noble from the small mining town of Blasingdell and his interest in the legend of Durgeddin. Remy spends some time and money acquiring a pair of shiny trousers.
