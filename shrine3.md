@@ -65,3 +65,7 @@ Remy uses the magic whistle to fly up above the well into the chamber above carr
 ![a picture of a blue skinned giant](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/297/278/315/636252771507213738.jpeg "Xipe")
 
 Dioica is effected by the fear and makes a run for it. Poon Tang climbs up. She attempts to use the rock magic ring for the final time. It doesn't work and the ring can now cast _stone shape_ up to 13 times. Remy and Ocardo both attack Xipe and Xipe attacks Ocardo and then casts _sleep_ on the party but it fails. Meanwhile, Dioica shakes off the fear spell and climbs back up the rope. She uses the last charge on the _wand of lightning bolts_ to hit Xipe and kill him. Ocardo drains his life force as he dies.
+
+In Xipe's room you find a wooden cylinder, eight cat furs, two leather bags, and an intricately carved ivory cube. The cylinder contains a spell scroll and the bags each contain a thousand silver pieces. Remy examines the ivory cube to see if there is a way to open it. To open it, he pushes in two plugs on either side of the cube, and then slides the center out of the frame formed by the other four sides. This inner box opens like a chest. And within it is a silver and aquamarine necklace and a parchment packet holding three piches of dust. Claude identifies the spell scroll as a spell scroll of _detect magic_ and the dust is _dust of disappearance_.
+
+Next you decide to go back to the cat room. 
