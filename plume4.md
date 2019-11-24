@@ -8,6 +8,6 @@ Wave and Whelm are reluctant to go back to their previous owners as they don't w
 
 You also attempt to buy additional magic items and weapons. While you are carrying out your search, Poon Tang creates a false identity known as Lady Wayne. Along with Ocardo, they spend their evenings hunting down Neverwinter's muggers and harvesting their souls to feed Blackrazor's insatiable appetite.
 
-Your magic item searches turn up a _bag of holding_, a _+2 scimitar_ for Badger, a _+2 bow_ for Poon Tang, _gauntlets of ogre power_ for Ocardo, and a rather pricey _+2 short bow_ for Remy.
+Your magic item searches turn up a _+2 scimitar_ for Badger, a _+2 bow_ for Poon Tang, _gauntlets of ogre power_ for Ocardo, and a rather pricey _+2 short bow_ for Remy.
 
 During this time you catch news of a plot, near the village of Daggerford on the Sword Coast, by the infamous _Red Wizards of Thay_ to overthrow and take control of the North. A group of heroes have managed to thwart the attack and have captured a teleportation circle. You decide to travel to Daggerford to investigate.
