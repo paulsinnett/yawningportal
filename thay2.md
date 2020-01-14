@@ -1,0 +1,7 @@
+# Dead in Thay: Part 2
+
+Claude explains the nature of the curse on Remy's bow. The first time Remy attacked with the bow, he became cursed. It gives him advantage on attacks against that type of creature but disadvantage on attacks against everything else. Claude casts _remove curse_ on Remy to break the current curse. If Remy were to fire the bow again, he will become cursed again. Claude thinks he may be able to remove the curse on the item with enough time and resources.
+
+You are at a crossroads with doors leading in each direction. Ocardo and Remy decide to try the doors to the east. These doors are inlaid with brass filigree, marking out the shapes of angelic figures. Remy determines that the doors are not trapped and opens them. Magical darkness flows out of the opening and you feel your life draining. Remy backs out of the darkness but Ocardo is able to see into the void. Unfortunately there is nothing to see. You send Nine into the void beyond the doors to see what will happen. The golem begins to float away into the darkness. Ocardo uses his _lightning lure_ to catch Nine before it drifts away. However, instead of damaging the golem, the magical lightning heals its wounds. Ocardo closes the doors and the magical darkness dissipates.
+
+You try the doors to the west next. 
