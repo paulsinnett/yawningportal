@@ -58,7 +58,7 @@ Meanwhile, the vampire introduces himself as Issem. He is cursed to serve the Th
 
 Remy and Badger decide to scout ahead to the south and the predator pools. Here you encounter your first white gate. A ten-foot-diameter circle of runes and clear quartz fragments is set into the floor. Within the circle, a luminous white mist shimmers, obscuring what lies beyond. You use your key to open the gate and pass through into the passage beyond.
 
-The passage opens into a large circular room containing a large circular pool. There is a black gate at the far side of the pool. Dave senses danger in the pool. A monstrous kraken lies at the bottom and attacks as you approach. Dave attempts to control the creature with Wave's domination magic but he is unable to stop it. A tentacle grabs Remy and begins to crush him. Badger hacks at the tentacles and Ocardo puts his curse upon it. Fortunately, Wave manages to charm the creature and gets it to put Remy down.
+The passage opens into a large circular room containing a large circular pool. There is a black gate at the far side of the pool. Dave senses danger in the pool. A monstrous kraken lies at the bottom and attacks as you approach. Dave attempts to control the creature with Wave's domination magic but he is unable to stop it. A tentacle grabs Remy and begins to crush him. Badger hacks at the tentacles and Ocardo puts his curse upon it. Fortunately, Wave manages to convince the creature to put Remy down.
 
 You get Shalendra to lead the human prisoners towards to the black gate. A ten-foot-diameter circle of runes and black onyx fragments is set into the floor. It exudes wisps of shadowy energy that look like curling black smoke. You use the glyph key to deactivate the gate and create a portal back to the gatehouse. Shalendra leads the nine human prisoners out of the Doomvault and you quickly return to the arena before Wave loses control of the kraken.
 
@@ -82,6 +82,6 @@ This area might once have been a great banquet hall, but its furnishings now lie
 
 Claude turns the wights while Badger kills the dread warrior. Remy shoots one of the wights with his magic bow. The bow targets the creature with supernatural accuracy. A zombie strikes Badger and Remy attempts to shoot it, but the bow pulls his shot back towards the wight. Poon Tang kills one of the zombies while Badger pursues the remaining wight out of the chamber through the doors to the south. The wight steps nimbly over a pit trap but, in his haste, Badger triggers the mechanism and falls in onto a bed of stone spikes. Remy shoots the remaining wight before it can escape.
 
-You pull Badger back out of the trap and Claude heals him and then casts _identify_ on Remy's bow. He determines that it is cursed by a god and will only reliably target wights.
+You pull Badger back out of the trap and Claude heals him and then casts _identify_ on Remy's bow. He determines that it is cursed by a god.
 
-[^1]: PEGI 12.
+[^1]: The PEGI 12 version.
