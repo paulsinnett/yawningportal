@@ -18,7 +18,7 @@ Claude fires a _guiding bolt_ at the creature but he misses. Tarul Var reaches o
 
 Badger continues to rage at a dread warrior and slices it into pieces. But Tarul Var, possesses one of the warriors and throws another _fire bolt_ at him. Ocardo hurls an _eldritch blast_ at the lich and Chas throws Whelm. Enraged by this sudden onslaught, Tarul Var casts a out a _circle of death_ around him. You can feel your skin rotting in the necrotic magic.
 
-Claude hits the lich with a _guiding bolt_ and Badger then manages to get a hit on the Tarul Var, but the lich uses _benign transposition_ to instantaneously swap positions with one of the dread warriors. Ocardo attempts to strike him down with an _eldritch blast_ but the lich uses a _counterspell_ to neutralise the warlock magic. Chas casts _spiritual weapon_ to keep the dread warriors busy while he heals himself.
+Claude hits the lich with a _guiding bolt_ and Badger then manages to get a hit on Tarul Var, but the lich uses _benign transposition_ to instantaneously swap positions with one of the dread warriors. Ocardo attempts to strike him down with an _eldritch blast_ but the lich uses a _counterspell_ to neutralise the warlock magic. Chas casts _spiritual weapon_ to keep the dread warriors busy while he heals himself.
 
 Tarul Var casts _Evard's black tentacles_ to fill the room with squirming ebony tentacles. They grab hold of Nine and Chas but Remy manages to evade. Nine manages to fight free but Chas is strangled and knocked unconscious. Claude heals Poon Tang while Badger continues to attack the lich and the last dread warrior. Ocardo blasts them with a _cone of cold_.
 
